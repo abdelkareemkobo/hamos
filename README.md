@@ -2,7 +2,7 @@
 
 🗣️ Automatic Speech Recognition using Whisper by OpenAI ✨
 
-![Project Demo](demo.gif)
+![Project Demo](demo.webm)
 
 ## Description
 
